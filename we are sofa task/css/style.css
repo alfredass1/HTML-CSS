@@ -1,0 +1,51 @@
+.container{
+ 	width: 80px;
+
+ }
+
+*{
+ 	text-align: center;
+ 	font-family: lato;
+ 	
+}
+
+h1{
+	font-size: 4em;
+   
+}
+ header{
+ 	text-align: center;
+ }
+
+
+.paragraph{
+
+	border-top: 5px double #000;
+	border-bottom: 5px double #000;	
+	
+}
+article{
+	width: 180px;
+	display: inline-block;
+	margin: 25px 25px;
+
+}
+
+
+article p,h2{
+	text-align: left;
+}
+
+.fa-angle-double-right{
+	color:silver;
+}
+
+footer{
+	margin: 200px;	
+}
+
+.fa-arrow-circle-up{
+
+	color: red;
+}
+

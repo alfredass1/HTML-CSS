@@ -1,0 +1,33 @@
+nav{
+	background: #eee;
+	margin: 25px auto;
+	padding: 25px;
+	border: 1px solid #000; /*dotted dashed*/
+	width: 80%;	height: 50px;
+}
+
+
+nav li{
+	 display:inline-block;
+	 background-color: white;
+	 text-transform: uppercase;
+	 padding: 10px;
+	 border: 1px solid #000;
+
+
+}
+
+li:hover{
+	background-color: red;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+
+}
+
+
+
+

@@ -1,0 +1,123 @@
+
+body{
+    text-align: center;
+    margin: 50px;
+    padding: auto;
+    line-height: 200px;
+	background-color: #E7E0E0;
+
+}
+
+img{
+
+	height: 250px;
+	width:300px;
+	top: 0;
+
+
+}
+
+h1{
+	font-size: 1.7em;
+	color: #2995F2;
+	font-family: tahoma;
+
+    
+}
+
+p{
+    font-size: 1.1em;
+    font-family: lato;
+    
+ }
+
+input{
+  width: 335px;
+  height: 50px;
+  top: 48px;
+
+}
+input[type=email] {
+  border: 1px solid #BFC6CC;
+  color: #66747F;
+  font-size: 0.9em;
+  font-weight: bold;
+  padding-left: 10px;
+}
+button:hover{
+  background-color: #2486D6;
+
+}
+
+button{
+  
+  background-color: #2995F2;
+  font-family: lato;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  color: #ffffff;
+  height: 55px;
+  width:220px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  left: 240px;
+
+}
+main{
+	width: 85%;
+	height: 140px;
+	margin: auto;
+	background-color: #f1f4f7;
+	padding: 100px;
+	position: relative;
+	border: 1px solid #BFC6CC;
+
+
+
+} 
+section div{  	
+	width: 400px;
+	height: 200px;
+    
+
+}
+
+section :nth-child(1){
+	position: relative;
+	right: 30px;
+	bottom: 25px;
+
+}
+section :nth-child(2){
+	position: absolute;
+	right: 10px;
+	left: 320px;
+	bottom: 35px;
+}
+section :nth-child(3){
+	color: #6E8493;
+	position: absolute;
+	left: 353px;
+	top: 0;
+	right: 0;
+
+}
+section :nth-child(4){
+	color: #6E8493;
+	position: absolute;
+	left: 260px;
+	top: 20px;
+	right: 0;
+
+}
+
+section :nth-child(5){
+	color: #6E8493;
+	position: absolute;
+	left: 600px;
+	top: 25px;
+	left: 400px;
+    
+}

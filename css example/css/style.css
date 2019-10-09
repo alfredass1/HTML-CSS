@@ -1,0 +1,156 @@
+*{
+
+	text-align: center;
+	line-height: 2;
+}
+
+body{
+
+	background-color: tomato;
+}
+
+section{
+
+	background-color: white;
+
+}
+
+article{
+
+	background-color: cyan;
+}
+
+#super{
+
+	background-color: aquamarine;
+
+
+}
+
+.lead{
+	font-size: 2em;
+
+}
+
+.strong{
+
+	font-weight: bold;
+}
+
+.hide{
+
+	display: none;
+}
+a[href="http://kitm.lt"]{
+	color: red;
+
+}
+a[href="http://smm.lt"]{
+	color: green;
+}
+a[href="http://delfi.lt"]{
+	color: blue;
+
+}
+a[href$="pdf"]{
+	color: red;
+
+}
+a[href$="docx"]{
+	color: green;
+
+}
+a[href$="xlsx"]{
+	color: grey;
+
+}
+/*links*/
+
+
+a:link{  /*pseudo klase*/
+
+	color:red;
+	text-decoration: none;
+}
+a:visited{
+
+	color:green;
+}
+a:hover{
+
+	color:aqua;
+}
+li:first-child{
+	background-color: aqua;
+}
+li:last-child{
+	background-color: tomato;
+}
+
+body{
+
+	font-size: 1.2em;
+}
+article{
+
+	font-size: 2em;
+}
+
+p{
+
+	font-size: 2rem;
+}
+
+article p{
+
+	font-size: 1.2em;
+	font-style: oblique;
+	font-weight:bolder; 
+	font-family: "Open Sans";
+
+}
+article h1{
+
+	font-family: 'Roboto', 'Open Sans';
+}
+article h2{
+
+	font-family: "Open Sans Pro";
+}
+
+a:link{
+
+	font-family: "Source Sans Pro";
+
+}
+
+.fa-ad{
+
+	color: red;
+
+}
+
+.fa-android{
+
+	color: lime;
+}
+
+.fa-amazon{
+
+	color: yellow;
+}
+
+.air-freshener{
+
+	color: white;
+}
+
+h1{
+
+	text-align: left;
+}
+
+article p{
+
+	text-align: justify;
+}
